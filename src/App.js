@@ -15,3 +15,12 @@ class App extends Component {
 }
 
 export default App;
+
+
+// Eslint, it’s configuration by Airbnb and it’s required packages…
+
+// husky: Will run npm script before the committing the code.
+
+// lint-staged: Will run custom script on the filtered files by the extensions like .js or .jsx
+
+// pretty-quick: Will prettify your code.

@@ -24,3 +24,7 @@ export default App;
 // lint-staged: Will run custom script on the filtered files by the extensions like .js or .jsx
 
 // pretty-quick: Will prettify your code.
+
+// check code agains the eslint rules.
+
+// pretty quick to format code.
